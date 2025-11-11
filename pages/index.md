@@ -9,7 +9,7 @@ links:
     color: '#163C56'
     icon: solid:user-tie
   - title: Deborah Vasombolwa DH
-    url: https://facebook.com
+    url: https://web.facebook.com/gaellah.vaso
     color: '#1A4A91'
     icon: brands:facebook
   - title: deborahdh12
@@ -17,7 +17,7 @@ links:
     color: '#000'
     icon: brands:github
   - title: Deborah Vasombolwa
-    url: https://www.linkedin.com/feed/
+    url: https://www.linkedin.com/in/deborah-vasombolwa-32ba7a301/
     color: '#0A66C2'
     icon: brands:linkedin
   - title: Deborahvasombolwa
