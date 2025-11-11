@@ -1,10 +1,10 @@
 title: Deborah Vasombolwa
-baseurl: https://cecil-links-demo.netlify.app/
+baseurl: https://deborahdh12.github.io/links/
 baseline: "Quelques liens à propos de moi"
 description: "SEO/OG description."
 author:
   name: Deborah Vasombolwa
-  url: https://cecil.app
+  url: https://deborahdh12.github.io/links/
   email: deborahvasombolwa@gmail.com
 social:
   github:
@@ -48,7 +48,7 @@ manifest:
   theme_color: "#0369a1" # https://tailwindcss.com/docs/customizing-colors "700"
   #background_color: "#fff"
 serviceworker:
-  enabled: True 
+  enabled: True
 # languages
 language: en
 languages:
