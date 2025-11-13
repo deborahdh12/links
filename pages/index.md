@@ -5,7 +5,7 @@ blocks:
   - name: social  # social accounts
 links:
   - title: Deborah Vasombolwa
-    url: deborahvasombolwa@gmail.com
+    url: https://deborahvasombolwa@gmail.com
     color: '#163C56'
     icon: solid:user-tie
   - title: Deborah Vasombolwa DH
@@ -20,7 +20,7 @@ links:
     url: https://www.linkedin.com/in/deborah-vasombolwa-32ba7a301/
     color: '#0A66C2'
     icon: brands:linkedin
-  - title: Deborahvasombolwa
+  - title: Deborah vasombolwa
     url: https://youtube.com/@www.youtube.com/@Deborahvasombolwa
     color: '#FED13C'
     icon: brands:youtube
