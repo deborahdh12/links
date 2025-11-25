@@ -27,4 +27,3 @@ links:
   - title: Example
     url: https://deborahdh12.github.io/L3IGAF12/#
 ---
-

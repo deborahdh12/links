@@ -48,7 +48,7 @@ manifest:
   theme_color: "#0369a1" # https://tailwindcss.com/docs/customizing-colors "700"
   #background_color: "#fff"
 serviceworker:
-  enabled: True
+  enabled: false
 # languages
 language: en
 languages:
