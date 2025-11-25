@@ -9,7 +9,6 @@ author:
 social:
   github:
     url: https://github.com/deborahdh12
-    username: Deborah
   linkedin:
     url: https://linkedin.com/
   instagram:
@@ -24,14 +23,10 @@ social:
     url: https://threads.net/
   twitter:
     url: https://twitter.com/
-    site: John Doe
-    creator: John Doe
   x:
     url: https://x.com/
-    site: John Doe
-    creator: John Doe
-avatar: avatar.jpg
-image: avatar.jpg # Open Graph image
+avatar: avatar.png
+image: avatar.png # Open Graph image, optional, recommended
 # CSS theme and buttons colors
 links:
   theme: default # default, gradient-1, gradient-2
@@ -45,8 +40,8 @@ pages:
         blank: true # open in new tab
 # PWA
 manifest:
-  theme_color: "#0369a1" # https://tailwindcss.com/docs/customizing-colors "700"
-  #background_color: "#fff"
+  theme_color: "#0369a1"   # theme color
+  background_color: "#fff" # PWA background color
 serviceworker:
   enabled: false
 # languages
